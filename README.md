@@ -1,4 +1,4 @@
-# ankitayadav
+# ankita yadav
 <h1 align="center">Hi 👋, I'm Ankita Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f3b04bcc5a6c38cefe94f011a982263fc8718412568f756362f903776c66d008/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966"
